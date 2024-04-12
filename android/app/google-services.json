@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1038037195735",
+    "project_id": "bldapp-4859a",
+    "storage_bucket": "bldapp-4859a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038037195735:android:948008733c767181b30992",
+        "android_client_info": {
+          "package_name": "com.example.bld_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038037195735-06vrivs0aa4v3d8c015cm8fl8s768b14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bld_app",
+            "certificate_hash": "3478e9326e77d560c09f39cfe7e17335074a42f2"
+          }
+        },
+        {
+          "client_id": "1038037195735-vppsno3rehv2828qsb0f2cdcc9r6ihdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4EXHhMBAypC9NHXSxHbkvZonhM-xfhvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038037195735-vppsno3rehv2828qsb0f2cdcc9r6ihdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038037195735-6r6jqln26590knq7i45mloehhff2qfdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bldApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038037195735:android:e720f524b7807b48b30992",
+        "android_client_info": {
+          "package_name": "com.example.bldapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038037195735-vppsno3rehv2828qsb0f2cdcc9r6ihdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4EXHhMBAypC9NHXSxHbkvZonhM-xfhvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038037195735-vppsno3rehv2828qsb0f2cdcc9r6ihdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038037195735-6r6jqln26590knq7i45mloehhff2qfdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bldApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
